@@ -1,6 +1,3 @@
-/Users/menco/GitLearning/20160920/newDoc02/
-*.txt
-*.[oa]
+*.a
 *~
-/newDoc02/newFile02.txt
-/newDoc02/
+*.txt
