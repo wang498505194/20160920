@@ -1,0 +1,4 @@
+This is the new file.
+On brach wjj02.
+
+This is newFile02.
